@@ -31,6 +31,7 @@ export default async function handler(req, res) {
     'api.jcdecaux.com',
     'api.cyclocity.fr',
     'gbfs.theta.fifteen.eu',
+    'api.omega.fifteen.eu',
     'opendata.paris.fr',
   ];
 
