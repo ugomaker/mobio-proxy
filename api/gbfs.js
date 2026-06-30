@@ -33,6 +33,8 @@ export default async function handler(req, res) {
     'gbfs.theta.fifteen.eu',
     'api.omega.fifteen.eu',
     'opendata.paris.fr',
+    'proxy.transport.data.gouv.fr',
+    'bdx.mecatran.com',
   ];
 
   let targetUrl;
