@@ -35,6 +35,7 @@ export default async function handler(req, res) {
     'opendata.paris.fr',
     'proxy.transport.data.gouv.fr',
     'bdx.mecatran.com',
+    'services.rideyego.com',
   ];
 
   let targetUrl;
